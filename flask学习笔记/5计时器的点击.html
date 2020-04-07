@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <p>
+        <input type="button" name="btn" value="未点击">
+        <input type="button" name="btn" value="未点击">
+        <input type="button" name="btn" value="未点击">
+        <input type="button" name="btn" value="未点击">
+        <input type="button" name="btn" value="未点击">
+    </p>
+    <input disabled="disabled" type="button" name="name" id="btns" value="请仔细阅读协议(5)">
+    <script>
+        var inputFor = document.getElementsByTagName("p")[0].getElementsByTagName("input");
+        var ke = 0;
+        for (ke;ke < inputFor.length;ke++){
+            inputFor[ke].onclick = function () {
+                for (var i=0;i < inputFor.length;i++){
+                    inputFor[i].value = "未点击"
+                }
+                this.value = "中奖了";
+            }
+        }
+        //--------------------------------------
+        time = 4;
+        var inputElement = document.getElementById("btns");
+        var interval = setInterval(function () {
+            if (0 < time){
+                inputElement.value = "请仔细阅读协议(" + time.toString() + ")";
+                time--
+            } else{
+                inputElement.value = "同意";
+                inputElement.disabled = false;      //取消禁用状态
+                clearInterval(interval);             //关闭计时器
+            }
+
+        },1000)
+    </script>
+</body>
+</html>

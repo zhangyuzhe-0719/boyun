@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <input type="button" name="name" value="点击动态创建一个元素">
+    <div id="di">diu</div>
+    <script>
+        var bodyElement = document.getElementsByTagName("div")[0];   // 添加到某个元素下
+        document.getElementsByTagName("input")[0].onclick = function () {
+            var divElement = document.createElement("input");
+            divElement.type = "text";
+            bodyElement.appendChild(divElement);//存放指标签
+            bodyElement.removeChild(divElement);  //删除元素
+            bodyElement.insertBefore(divElement,divElement.firstChild) //添加到第一个元素之前
+            //firstChild  第一个元素
+            //xxx.元素属性 = 赋值
+        }
+    </script>
+</body>
+</html>

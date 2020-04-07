@@ -1,0 +1,33 @@
+linux执行命令:
+./bin/jmeter -n -t /home/test/Bing接口测试样本.jmx -l /home/test/Bing接口测试样本.jtl
+参数说明：
+
+
+-n表示以nogui方式运行测试计划
+
+
+-t表示测试计划，后面跟测试计划名称
+
+
+-l表示测试结果，后面跟测试结果文件名称
+运行后显示如下界面，即成功运行了脚本：
+
+或者进入jmeter bin目录
+
+sh jmeter.sh -n -t 脚本地址 -l 脚本名称地址(xxx.jtl)
+
+例如
+
+sh jmeter.sh -n -t demo_01.jmx -l demo01.jtl
+
+场景---------------------------------------
+
+demo01-03对应53场景的 1-2-3步骤
+
+fen_master 对应 37场景
+
+thelink01 对应63场景  10万次请求
+
+thelink02对应 29场景
+
+

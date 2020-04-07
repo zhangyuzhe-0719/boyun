@@ -1,0 +1,62 @@
+Type：请求类型，即接口的请求方法；
+
+Name：请求路径；
+
+requests：当前已完成的请求数量；
+
+fails：当前失败的数量；
+
+Median：响应时间的中间值，即50%的响应时间在这个数值范围内，单位为毫秒；
+
+Average：平均响应时间，单位为毫秒；
+
+Min：最小响应时间，单位为毫秒；
+
+Max：最大响应时间，单位为毫秒；
+
+Content Size：所有请求的数据量，单位为字节；
+
+reqs/sec：每秒钟处理请求的数量，即QPS；
+
+
+
+
+-----------------------
+
+测试用例类名
+
+服务管理场景: devopServer
+
+代码仓库: warahouse
+
+制品库: product
+
+环境管理: enviroment
+
+日志中心: logInformation
+
+pipeline: devopsPipline
+
+
+-----------------------
+
+默认报告请求端口地址:http://localhost:8089/
+
+
+---------------------
+参数配置
+
+
+点击STOP，会停止测试，并调用所有当前执行的TaskSet的on_stop，但不会调用teardown函数
+ctrl +c,表示停止locust运行，此时会调用TaskSet teardown # 停止locust运行时执行，Locust teardown  # 停止locust运行时执行，（而不会调用TaskSet的on_stop，点击STOP，会停止测试，并调用所有当前执行的TaskSet的on_stop，但不会调用teardown函数）
+stop_timeout：Locust停止的秒数，如果为None，将不停止一直执行任务,单位为s秒
+-H：指定测试的主机地址（注：会覆盖Locust类指定的主机地址）
+-f：指定测试脚本地址（注：脚本中必须包含一个Locust的衍生类）
+--no-web：不启动web网页，而是直接开始运行测试，需提供属性-c和-r
+-c：并发的用户数，与--no-web一起使用
+-r：每秒启动的用户数，与--no-web一起使用
+-t：运行时间（单位：秒），与--no-web一起使用
+-L：日志级别，默认为INFO
+调试命令：locust -f **.py --no-web -c 1 -t 1
+运行命令：locust -f **.py
+

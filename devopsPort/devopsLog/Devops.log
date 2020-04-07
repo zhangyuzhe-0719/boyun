@@ -1,0 +1,210 @@
+2020-01-10 10:26:38,181 info sssscxzssscs
+2020-01-10 10:29:35,121 info sssscxzssscs
+2020-01-10 10:36:27,615 info sssscxzssscs
+2020-01-10 10:36:57,372 logger.py sssscxzssscs
+2020-01-10 10:47:53,095 logger.py sssscxzssscs
+2020-01-10 10:47:58,739 logger.py sssscxzssscs
+2020-01-10 10:49:39,595 logger.py sssscxzssscs
+2020-01-10 10:52:02,401 logger.py 1
+2020-01-10 11:07:00,305 logger.py 1
+2020-03-09 10:13:02,259 logger.py sheet: id: index:请求失败,状态码200.0
+2020-03-09 10:14:48,670 logger.py sheet: id: index:请求失败,状态码200.0
+2020-03-09 10:25:52,727 logger.py sheet: id: index:code返回错误,无法比对
+2020-03-09 10:26:45,621 logger.py sheet: id: index:1
+2020-03-09 11:24:07,925 logger.py sheet: id: index:
+2020-03-09 11:26:05,623 logger.py sheet: id: index:
+2020-03-09 11:33:28,107 logger.py sheet: id: index:
+2020-03-09 11:33:28,108 logger.py sheet: id: index:返回值删除过滤值未找到
+2020-03-09 11:33:28,108 logger.py sheet: id: index:返回值删除过滤值未找到
+2020-03-09 11:33:28,109 logger.py sheet: id: index:sheet:报告模板 id:1.0 index:1.0 实际结果和预期结果不一致
+2020-03-09 11:33:28,109 logger.py sheet: id: index:sheet:报告模板 id:1.0 index:1.0 实际结果和预期结果不一致
+2020-03-09 11:41:40,518 logger.py sheet: id: index:
+2020-03-09 11:41:40,519 logger.py sheet: id: index:返回值删除过滤值未找到
+2020-03-09 11:41:40,519 logger.py sheet: id: index:返回值删除过滤值未找到
+2020-03-09 11:41:40,519 logger.py sheet: id: index:sheet:报告模板 id:1.0 index:1.0 实际结果和预期结果不一致
+2020-03-09 11:41:40,519 logger.py sheet: id: index:sheet:报告模板 id:1.0 index:1.0 实际结果和预期结果不一致
+2020-03-09 11:41:52,664 logger.py sheet: id: index:
+2020-03-09 11:41:52,665 logger.py sheet: id: index:返回值删除过滤值未找到
+2020-03-09 11:41:52,665 logger.py sheet: id: index:返回值删除过滤值未找到
+2020-03-09 11:41:52,666 logger.py sheet: id: index:sheet:报告模板 id:1.0 index:1.0 实际结果和预期结果不一致
+2020-03-09 11:41:52,666 logger.py sheet: id: index:sheet:报告模板 id:1.0 index:1.0 实际结果和预期结果不一致
+2020-03-09 11:42:41,616 logger.py sheet: id: index:
+2020-03-09 11:43:05,885 logger.py sheet: id: index:返回值删除过滤值未找到
+2020-03-09 11:43:05,885 logger.py sheet: id: index:返回值删除过滤值未找到
+2020-03-09 11:43:57,219 logger.py sheet: id: index:
+2020-03-09 11:43:57,220 logger.py sheet: id: index:返回值删除过滤值未找到
+2020-03-09 11:43:57,220 logger.py sheet: id: index:返回值删除过滤值未找到
+2020-03-09 11:43:57,220 logger.py sheet: id: index:sheet:报告模板 id:1.0 index:1.0 实际结果和预期结果不一致
+2020-03-09 11:43:57,220 logger.py sheet: id: index:sheet:报告模板 id:1.0 index:1.0 实际结果和预期结果不一致
+2020-03-09 11:44:13,355 logger.py sheet: id: index:1
+2020-03-09 12:13:40,953 logger.py sheet: id: index:
+2020-03-09 13:51:51,010 logger.py sheet: id: index:
+2020-03-09 13:51:51,010 logger.py sheet: id: index:返回值删除过滤值未找到
+2020-03-09 13:51:51,010 logger.py sheet: id: index:返回值删除过滤值未找到
+2020-03-09 13:51:51,011 logger.py sheet: id: index:sheet:报告模板 id:1.0 index:1.0 实际结果和预期结果不一致
+2020-03-09 13:51:51,011 logger.py sheet: id: index:sheet:报告模板 id:1.0 index:1.0 实际结果和预期结果不一致
+2020-03-09 13:52:21,784 logger.py sheet: id: index:
+2020-03-09 13:56:11,314 logger.py sheet: id: index:
+2020-03-09 13:56:11,314 logger.py sheet: id: index:返回值删除过滤值未找到
+2020-03-09 13:56:11,315 logger.py sheet: id: index:sheet:报告模板 id:1.0 index:1.0 实际结果和预期结果不一致
+2020-03-09 14:15:49,828 logger.py sheet: id: index:返回值删除过滤值未找到
+2020-03-09 14:15:49,829 logger.py sheet: id: index:sheet:报告模板 id:1.0 index:1.0 实际结果和预期结果不一致
+2020-03-09 14:17:47,265 logger.py sheet: id: index:返回值删除过滤值未找到
+2020-03-09 14:17:47,265 logger.py sheet: id: index:sheet:报告模板 id:1.0 index:1.0 实际结果和预期结果不一致
+2020-03-09 14:22:26,046 logger.py sheet:报告模板 id:1.0 index:1.0返回值删除过滤值未找到
+2020-03-09 14:22:26,046 logger.py sheet:报告模板 id:1.0 index:1.0实际结果和预期结果不一致
+2020-03-09 14:31:53,052 logger.py sheet:报告模板 id:1.0 index:1.0返回值删除过滤值未找到
+2020-03-09 14:31:53,052 logger.py sheet:报告模板 id:1.0 index:1.0实际结果和预期结果不一致
+2020-03-09 14:35:00,045 logger.py sheet:报告模板 id:1.0 index:1.0返回值删除过滤值未找到
+2020-03-09 14:35:52,070 logger.py sheet:报告模板 id:1.0 index:1.0实际结果和预期结果不一致
+2020-03-09 14:42:21,052 logger.py sheet:报告模板 id:1.0 index:1.0返回值删除过滤值未找到
+2020-03-09 14:42:34,755 logger.py sheet:报告模板 id:1.0 index:1.0实际结果和预期结果不一致
+2020-03-09 14:54:05,882 logger.py sheet:报告模板 id:1.0 index:1.0返回值删除过滤值未找到
+2020-03-09 14:54:20,674 logger.py sheet:报告模板 id:1.0 index:1.0实际结果和预期结果不一致
+2020-03-09 14:58:25,415 logger.py sheet:报告模板 id:1.0 index:1.0返回值删除过滤值未找到Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2020-03-09 15:02:50,128 logger.py sheet:报告模板 id:1.0 index:1.0返回值删除过滤值未找到Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2020-03-09 15:19:01,000 logger.py sheet:报告模板 id:1.0 index:1.0返回值删除过滤值未找到Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2020-03-09 15:32:29,623 logger.py sheet:报告模板 id:1.0 index:1.0返回值删除过滤值未找到'str' object does not support item deletion
+2020-03-09 16:38:51,044 logger.py sheet:报告模板 id:1.0 index:2.0code返回错误,无法比对
+2020-03-09 16:42:08,413 logger.py sheet:报告模板 id:1.0 index:2.0code返回错误,无法比对
+2020-03-09 16:50:07,217 logger.py sheet:报告模板 id:1.0 index:2.0code返回错误,无法比对
+2020-03-09 16:59:50,702 logger.py sheet:报告模板 id:1.0 index:2.0code返回错误,无法比对
+2020-03-09 17:15:06,804 logger.py sheet:报告模板 id:1.0 index:2.0code返回错误,无法比对
+2020-03-09 17:15:21,892 logger.py sheet:报告模板 id:1.0 index:2.0code返回错误,无法比对
+2020-03-09 17:15:22,184 logger.py sheet:报告模板 id:2.0 index:1.0code返回错误,无法比对
+2020-03-09 17:15:23,181 logger.py sheet:报告模板 id:2.0 index:2.0code返回错误,无法比对
+2020-03-09 17:18:56,928 logger.py sheet:报告模板 id:2.0 index:2.0code返回错误,无法比对
+2020-03-09 17:37:52,487 logger.py sheet:报告模板 id:2.0 index:2.0code返回错误,无法比对 200.0
+2020-03-10 09:42:05,081 logger.py sheet:报告模板 id:1.0 index:3.0动态参数格式输入错误或者key值添加未找到
+2020-03-10 09:46:53,682 logger.py sheet:报告模板 id:1.0 index:3.0动态参数格式输入错误或者key值添加未找到
+2020-03-10 10:01:00,552 logger.py sheet:报告模板 id:1.0 index:4.0code返回错误,无法比对 200.0
+2020-03-10 10:56:24,375 logger.py sheet:报告模板 id:1.0 index:1.0请求失败,状态码200.0 HTTPConnectionPool(host='10.10.7.6', port=8778): Max retries exceeded with url: /paas-web/upmsapi/system/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0356C630>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2020-03-10 10:56:24,376 logger.py sheet:报告模板 id:1.0 index:2.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-10 10:56:24,377 logger.py sheet:报告模板 id:1.0 index:3.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-10 10:56:24,377 logger.py sheet:报告模板 id:1.0 index:4.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-10 10:56:26,062 logger.py sheet:报告模板 id:1.0 index:5.0请求失败,状态码200.0 HTTPConnectionPool(host='10.10.7.6', port=8778): Max retries exceeded with url: /paas-web/upmsapi/system/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0356C630>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2020-03-10 10:56:26,968 logger.py sheet:报告模板 id:1.0 index:6.0请求失败,状态码200.0 HTTPConnectionPool(host='10.10.7.6', port=8778): Max retries exceeded with url: /paas-web/upmsapi/system/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0356C630>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2020-03-10 10:56:28,885 logger.py sheet:报告模板 id:1.0 index:7.0请求失败,状态码200.0 HTTPConnectionPool(host='10.10.7.6', port=8778): Max retries exceeded with url: /paas-web/upmsapi/system/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0356C630>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2020-03-10 10:56:34,440 logger.py sheet:报告模板 id:1.0 index:8.0请求失败,状态码200.0 HTTPConnectionPool(host='10.10.7.6', port=8778): Max retries exceeded with url: /paas-web/upmsapi/system/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0356C630>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2020-03-10 10:56:36,559 logger.py sheet:报告模板 id:1.0 index:9.0请求失败,状态码200.0 HTTPConnectionPool(host='10.10.7.6', port=8778): Max retries exceeded with url: /paas-web/upmsapi/system/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0356C630>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2020-03-13 15:02:47,979 logger.py sheet:报告模板 id:1.0 index:3.0返回值删除过滤值未找到'timestamp'
+2020-03-13 16:03:05,365 logger.py sheet:报告模板 id:1.0 index:3.0返回值删除过滤值未找到'timestamp'
+2020-03-13 16:21:56,920 logger.py sheet:报告模板 id:1.0 index:3.0返回值删除过滤值未找到'timestamp'
+2020-03-13 16:22:30,440 logger.py sheet:报告模板 id:1.0 index:3.0返回值删除过滤值未找到'timestamp'
+2020-03-13 16:40:19,728 logger.py sheet:报告模板 id:1.0 index:3.0返回值删除过滤值未找到'timestamp'
+2020-03-13 17:09:22,799 logger.py sheet:报告模板 id:1.0 index:28.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-13 17:46:31,185 logger.py sheet:报告模板 id:1.0 index:3.0返回值删除过滤值未找到'timestamp'
+2020-03-13 17:46:31,186 logger.py sheet:报告模板 id:1.0 index:4.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-13 17:48:01,678 logger.py sheet:报告模板 id:1.0 index:3.0返回值删除过滤值未找到'timestamp'
+2020-03-13 17:48:01,679 logger.py sheet:报告模板 id:1.0 index:4.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-16 09:52:57,865 logger.py sheet:报告模板 id:1.0 index:3.0返回值删除过滤值未找到'timestamp'
+2020-03-16 09:55:09,178 logger.py sheet:报告模板 id:1.0 index:4.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-16 09:58:18,229 logger.py sheet:报告模板 id:1.0 index:3.0返回值删除过滤值未找到'timestamp'
+2020-03-16 09:58:20,303 logger.py sheet:报告模板 id:1.0 index:4.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-16 09:58:57,289 logger.py sheet:报告模板 id:1.0 index:3.0返回值删除过滤值未找到'timestamp'
+2020-03-16 09:59:00,138 logger.py sheet:报告模板 id:1.0 index:4.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-16 10:03:34,489 logger.py sheet:报告模板 id:1.0 index:4.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-16 10:04:42,306 logger.py sheet:报告模板 id:1.0 index:4.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-16 10:08:17,884 logger.py sheet:报告模板 id:1.0 index:4.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-16 10:13:54,247 logger.py sheet:报告模板 id:1.0 index:4.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-16 10:30:28,507 logger.py sheet:报告模板 id:1.0 index:2.0请求失败,状态码200.0 Value for header {token: {'errorCount': 0, 'firstLogin': 1, 'lastTime': 1574820973000, 'loginStatus': 1, 'organizations': [], 'userCompany': 'company', 'userCreatedate': 1558613726000, 'userCreator': 1, 'userDept': 'department', 'userId': 1, 'userJobNum': 'jobnum', 'userMail': 'admin@test.com', 'userName': 'admin', 'userPhone': '18123456789', 'userRealName': 'admin', 'userStatus': 1, 'userToken': 'eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsInVzZXJJZCI6IjEiLCJuYW1lIjoiYWRtaW4iLCJleHAiOjE1ODQzMzAzODZ9.eWh74_8slD1S-qgpNDtrI1v6ROY6Bb0fdCEqMDHCnSk_MTtgqFXrMwDNfXsS0mnOd-cyIt-R4Kt8-sE28cfJDh0ImdhANTa4VFHeYx8t63ZVgwJpwJpwOB_0q2KHpghIjmg5bfSG6HjztvA5zQCroT2s10ZpydssGlnNrHIgRbg', 'userType': 0}} must be of type str or bytes, not <class 'dict'>
+2020-03-16 10:30:29,712 logger.py sheet:报告模板 id:1.0 index:3.0请求失败,状态码200.0 Value for header {token: {'errorCount': 0, 'firstLogin': 1, 'lastTime': 1574820973000, 'loginStatus': 1, 'organizations': [], 'userCompany': 'company', 'userCreatedate': 1558613726000, 'userCreator': 1, 'userDept': 'department', 'userId': 1, 'userJobNum': 'jobnum', 'userMail': 'admin@test.com', 'userName': 'admin', 'userPhone': '18123456789', 'userRealName': 'admin', 'userStatus': 1, 'userToken': 'eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsInVzZXJJZCI6IjEiLCJuYW1lIjoiYWRtaW4iLCJleHAiOjE1ODQzMzAzODZ9.eWh74_8slD1S-qgpNDtrI1v6ROY6Bb0fdCEqMDHCnSk_MTtgqFXrMwDNfXsS0mnOd-cyIt-R4Kt8-sE28cfJDh0ImdhANTa4VFHeYx8t63ZVgwJpwJpwOB_0q2KHpghIjmg5bfSG6HjztvA5zQCroT2s10ZpydssGlnNrHIgRbg', 'userType': 0}} must be of type str or bytes, not <class 'dict'>
+2020-03-16 10:33:25,777 logger.py sheet:报告模板 id:1.0 index:4.0url体内参数未找到对应数据
+2020-03-16 10:58:27,134 logger.py sheet:报告模板 id:1.0 index:4.0url体内参数未找到对应数据
+2020-03-16 11:05:09,824 logger.py sheet:报告模板 id:1.0 index:4.0url体内参数未找到对应数据
+2020-03-16 11:06:30,305 logger.py sheet:报告模板 id:1.0 index:4.0url体内参数未找到对应数据
+2020-03-16 11:11:34,540 logger.py sheet:报告模板 id:1.0 index:4.0请求失败,状态码404 Expecting value: line 1 column 1 (char 0)
+2020-03-16 13:50:56,827 logger.py sheet:报告模板 id:1.0 index:6.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-16 13:50:57,079 logger.py sheet:报告模板 id:1.0 index:7.0测试通过
+2020-03-16 13:50:57,281 logger.py sheet:报告模板 id:1.0 index:8.0测试通过
+2020-03-16 13:50:57,282 logger.py sheet:报告模板 id:1.0 index:9.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-16 14:26:04,647 logger.py sheet:报告模板 id:1.0 index:4.0返回值删除过滤值未找到'data'
+2020-03-16 17:03:03,474 logger.py sheet:报告模板 id:1.0 index:4.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-16 17:03:03,820 logger.py sheet:报告模板 id:1.0 index:3.0测试通过
+2020-03-16 17:03:04,098 logger.py sheet:报告模板 id:1.0 index:4.0实际结果和预期结果不一致
+2020-03-16 17:03:04,421 logger.py sheet:报告模板 id:1.0 index:5.0测试通过
+2020-03-16 17:03:04,732 logger.py sheet:报告模板 id:1.0 index:4.0测试通过
+2020-03-16 17:05:13,092 logger.py sheet:报告模板 id:1.0 index:4.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-16 17:05:13,974 logger.py sheet:报告模板 id:1.0 index:3.0测试通过
+2020-03-16 17:05:14,266 logger.py sheet:报告模板 id:1.0 index:4.0实际结果和预期结果不一致
+2020-03-16 17:05:14,596 logger.py sheet:报告模板 id:1.0 index:5.0测试通过
+2020-03-16 17:05:39,782 logger.py sheet:报告模板 id:1.0 index:4.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-16 17:05:41,624 logger.py sheet:报告模板 id:1.0 index:5.0测试通过
+2020-03-16 17:05:43,404 logger.py sheet:报告模板 id:1.0 index:6.0实际结果和预期结果不一致
+2020-03-16 17:05:44,820 logger.py sheet:报告模板 id:1.0 index:7.0测试通过
+2020-03-16 17:05:44,821 logger.py sheet:报告模板 id:1.0 index:8.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-16 17:07:25,369 logger.py sheet:报告模板 id:1.0 index:8.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-18 17:45:10,542 logger.py sheet:报告模板 id:1.0 index:10.0返回值删除过滤值未找到'data'
+2020-03-18 17:45:10,897 logger.py sheet:报告模板 id:1.0 index:11.0测试通过
+2020-03-18 17:45:11,041 logger.py sheet:报告模板 id:1.0 index:12.0实际结果和预期结果不一致
+2020-03-18 17:45:11,375 logger.py sheet:报告模板 id:1.0 index:13.0实际结果和预期结果不一致
+2020-03-18 17:45:11,623 logger.py sheet:报告模板 id:1.0 index:14.0实际结果和预期结果不一致
+2020-03-18 17:45:11,819 logger.py sheet:报告模板 id:1.0 index:15.0测试通过
+2020-03-18 17:45:12,129 logger.py sheet:报告模板 id:1.0 index:16.0实际结果和预期结果不一致
+2020-03-18 17:45:12,412 logger.py sheet:报告模板 id:1.0 index:17.0测试通过
+2020-03-18 17:45:12,586 logger.py sheet:报告模板 id:1.0 index:18.0测试通过
+2020-03-18 17:45:13,515 logger.py sheet:报告模板 id:1.0 index:19.0实际结果和预期结果不一致
+2020-03-18 17:45:13,959 logger.py sheet:报告模板 id:1.0 index:20.0测试通过
+2020-03-18 17:45:15,285 logger.py sheet:报告模板 id:1.0 index:21.0实际结果和预期结果不一致
+2020-03-18 17:45:15,585 logger.py sheet:报告模板 id:1.0 index:22.0实际结果和预期结果不一致
+2020-03-18 17:45:16,091 logger.py sheet:报告模板 id:1.0 index:23.0实际结果和预期结果不一致
+2020-03-18 17:45:16,375 logger.py sheet:报告模板 id:1.0 index:24.0测试通过
+2020-03-18 17:45:17,050 logger.py sheet:报告模板 id:1.0 index:25.0测试通过
+2020-03-18 17:45:17,356 logger.py sheet:报告模板 id:1.0 index:26.0实际结果和预期结果不一致
+2020-03-18 17:45:17,890 logger.py sheet:报告模板 id:1.0 index:27.0实际结果和预期结果不一致
+2020-03-18 17:45:18,169 logger.py sheet:报告模板 id:1.0 index:28.0实际结果和预期结果不一致
+2020-03-18 17:45:18,853 logger.py sheet:报告模板 id:1.0 index:29.0实际结果和预期结果不一致
+2020-03-18 17:45:19,126 logger.py sheet:报告模板 id:1.0 index:30.0实际结果和预期结果不一致
+2020-03-18 17:45:20,257 logger.py sheet:报告模板 id:1.0 index:31.0实际结果和预期结果不一致
+2020-03-19 14:08:11,038 logger.py sheet:报告模板 id:1.0 index:7.0请求失败,状态码200.0 HTTPConnectionPool(host='10.10.7.6', port=8778): Max retries exceeded with url: /paas-web/devopsflow/flowState/page (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03582F30>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2020-03-19 14:34:57,459 logger.py sheet:报告模板 id:1.0 index:3.0code返回错误,无法比对 200.0
+2020-03-19 14:34:57,977 logger.py sheet:报告模板 id:1.0 index:4.0code返回错误,无法比对 200.0
+2020-03-19 14:34:57,978 logger.py sheet:报告模板 id:1.0 index:5.0code返回错误,无法比对 200.0
+2020-03-19 14:34:58,632 logger.py sheet:报告模板 id:1.0 index:6.0code返回错误,无法比对 200.0
+2020-03-19 14:34:58,633 logger.py sheet:报告模板 id:1.0 index:7.0code返回错误,无法比对 200.0
+2020-03-19 14:34:58,634 logger.py sheet:报告模板 id:1.0 index:8.0code返回错误,无法比对 200.0
+2020-03-19 14:34:58,634 logger.py sheet:报告模板 id:1.0 index:9.0code返回错误,无法比对 200.0
+2020-03-19 14:46:43,232 logger.py sheet:报告模板 id:1.0 index:3.0code返回错误,无法比对 200.0
+2020-03-19 14:46:43,420 logger.py sheet:报告模板 id:1.0 index:4.0code返回错误,无法比对 200.0
+2020-03-19 14:46:43,421 logger.py sheet:报告模板 id:1.0 index:5.0code返回错误,无法比对 200.0
+2020-03-19 14:46:43,710 logger.py sheet:报告模板 id:1.0 index:6.0code返回错误,无法比对 200.0
+2020-03-19 14:46:43,711 logger.py sheet:报告模板 id:1.0 index:7.0code返回错误,无法比对 200.0
+2020-03-19 14:46:43,712 logger.py sheet:报告模板 id:1.0 index:8.0code返回错误,无法比对 200.0
+2020-03-19 14:46:43,713 logger.py sheet:报告模板 id:1.0 index:9.0code返回错误,无法比对 200.0
+2020-03-19 14:53:23,023 logger.py sheet:报告模板 id:1.0 index:1.0请求失败,状态码200.0 HTTPConnectionPool(host='10.10.7.6', port=8778): Max retries exceeded with url: /paas-web/upmsapi/system/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0355D4D0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2020-03-19 14:53:23,024 logger.py sheet:报告模板 id:1.0 index:2.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-19 14:53:23,025 logger.py sheet:报告模板 id:1.0 index:3.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-19 15:16:33,738 logger.py sheet:报告模板 id:1.0 index:9.0请求失败,状态码200.0 ('Connection aborted.', TimeoutError(10060, '由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。', None, 10060, None))
+2020-03-19 15:27:18,895 logger.py sheet:报告模板 id:1.0 index:2.0返回值删除过滤值未找到'timestamp'
+2020-03-19 15:27:18,896 logger.py sheet:报告模板 id:1.0 index:3.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-19 15:27:19,149 logger.py sheet:报告模板 id:1.0 index:4.0测试通过
+2020-03-19 15:27:19,399 logger.py sheet:报告模板 id:1.0 index:5.0实际结果和预期结果不一致
+2020-03-19 15:27:19,653 logger.py sheet:报告模板 id:1.0 index:6.0测试通过
+2020-03-19 15:27:19,898 logger.py sheet:报告模板 id:1.0 index:7.0实际结果和预期结果不一致
+2020-03-19 15:27:20,165 logger.py sheet:报告模板 id:1.0 index:8.0返回值删除过滤值未找到'timestamp'
+2020-03-19 15:27:20,381 logger.py sheet:报告模板 id:1.0 index:9.0实际结果和预期结果不一致
+2020-03-19 15:37:16,616 logger.py sheet:报告模板 id:1.0 index:1.0请求失败,状态码200.0 HTTPConnectionPool(host='10.10.7.6', port=8778): Max retries exceeded with url: /paas-web/upmsapi/system/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x035DD3F0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2020-03-19 15:37:16,617 logger.py sheet:报告模板 id:1.0 index:2.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-19 15:37:16,617 logger.py sheet:报告模板 id:1.0 index:3.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-19 15:37:16,618 logger.py sheet:报告模板 id:1.0 index:4.0动态参数位置获取错误,没有找到对应位置参数
+2020-03-19 15:37:19,823 logger.py sheet:报告模板 id:1.0 index:5.0请求失败,状态码200.0 HTTPConnectionPool(host='10.10.7.6', port=8778): Max retries exceeded with url: /paas-web/upmsapi/system/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x035DD3F0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2020-04-03 20:44:11,936 logger.py sheet:报告模板 id:1.0 index:1.0返回值删除过滤值未找到'data'
+2020-04-03 20:44:11,938 logger.py sheet:报告模板 id:1.0 index:2.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:11,940 logger.py sheet:报告模板 id:1.0 index:3.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:11,940 logger.py sheet:报告模板 id:1.0 index:4.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:12,384 logger.py sheet:报告模板 id:1.0 index:5.0返回值删除过滤值未找到'data'
+2020-04-03 20:44:12,385 logger.py sheet:报告模板 id:1.0 index:6.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:12,385 logger.py sheet:报告模板 id:1.0 index:7.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:12,386 logger.py sheet:报告模板 id:1.0 index:8.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:12,386 logger.py sheet:报告模板 id:1.0 index:9.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:12,386 logger.py sheet:报告模板 id:1.0 index:10.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:12,387 logger.py sheet:报告模板 id:1.0 index:11.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:12,388 logger.py sheet:报告模板 id:1.0 index:12.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:12,388 logger.py sheet:报告模板 id:1.0 index:13.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:12,389 logger.py sheet:报告模板 id:1.0 index:14.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:12,390 logger.py sheet:报告模板 id:1.0 index:15.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:12,390 logger.py sheet:报告模板 id:1.0 index:16.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:12,391 logger.py sheet:报告模板 id:1.0 index:17.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:12,392 logger.py sheet:报告模板 id:1.0 index:18.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:12,392 logger.py sheet:报告模板 id:1.0 index:19.0动态参数位置获取错误,没有找到对应位置参数
+2020-04-03 20:44:12,393 logger.py sheet:报告模板 id:1.0 index:20.0动态参数位置获取错误,没有找到对应位置参数

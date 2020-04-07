@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>问问老师课堂</title>
+</head>
+<body>
+    <div id="student"></div>
+    <script>
+        var student = [];   //存放字典类型数据
+        var student_fen = {};
+
+        var student_div = document.getElementById("student");
+        //title存放
+        var title_div = document.createElement("div");
+        title_div.id = "title_div";
+        //输入框
+        var input_div = document.createElement("div");
+        input_div.className = "input_div";
+        var inputText = document.createElement("input");
+        input_div.style.width = "400px";
+        input_div.style.height = "40px";
+        input_div.style.border = "solid 1px #A8A8A8"; //设置边框灰色
+        input_div.style.borderRadius = "10px";       //设置圆角
+        input_div.style.display = "inline-block";
+        input_div.style.backgroundColor = "white";
+        input_div.style.margin = "10px 5px 10px 10px";
+        input_div.style.paddingLeft = "3px";
+        input_div.style.verticalAlign = "middle";
+
+        //提交分数
+        inputText.type = "text";
+        inputText.name = "name";
+        inputText.className = "input_parget";
+        inputText.style.width = "60px";
+        inputText.style.height = "25px";
+        inputText.style.marginTop = "5px";
+        inputText.style.border = 'none';
+        inputText.style.backgroundColor = "#F8F8F8";
+        inputText.style.border = "solid 1px #A8A8A8";
+        inputText.style.borderRadius = "4px";
+        // 按钮提交
+        var inputButtonAdd = document.createElement("input");
+        inputButtonAdd.type = "button";
+        inputButtonAdd.value = "加分";
+
+        var inputButtonSub = document.createElement("input");
+        inputButtonSub.type = "button";
+        inputButtonSub.value = "减分";
+
+        var inputButtonRoll = document.createElement("input");
+        inputButtonRoll.type = "button";
+        inputButtonRoll.value = "回退";
+
+        title_div.appendChild(input_div);
+        title_div.appendChild(inputText);
+        title_div.appendChild(inputButtonAdd);
+        title_div.appendChild(inputButtonSub);
+        title_div.appendChild(inputButtonRoll);
+        student_div.appendChild(title_div);
+
+        //更改按钮样式
+        var input_button = document.getElementsByTagName("input");
+        for (let x=0;x < input_button.length;x++){
+            if (input_button[x].type === 'button'){
+                input_button[x].style.backgroundColor = "#F8F8F8";
+                input_button[x].style.height = "35px";
+                input_button[x].style.width = "70px";
+                input_button[x].style.marginLeft = "10px";
+                input_button[x].style.borderRadius = "4px";
+                input_button[x].style.border = "solid 1px #A8A8A8";
+                input_button[x].style.cursor = "pointer";
+                input_button[x].onmouseover = function () {
+                    input_button[x].style.border = 'solid 1px';
+                    input_button[x].style.backgroundColor = "#CCFFFF";
+                };
+                input_button[x].onmouseout = function () {
+                    input_button[x].style.borderRadius = "5px";
+                    input_button[x].style.border = "solid 1px #A8A8A8";
+                    input_button[x].style.color = "black";
+                    input_button[x].style.backgroundColor = "#F8F8F8"
+                };
+            }
+        }
+
+
+        //  最外层样式
+        student_div.style.marginLeft = "100px";
+        student_div.style.marginRight = "100px";
+        student_div.style.border = 'solid 1px blue';
+        student_div.style.borderRadius = "20px";
+        student_div.style.height = "200px";
+
+        //存放学生成绩的div
+        var perform_div = document.createElement("div");
+        perform_div.className = "perform_div";
+        perform_div.style.marginTop = "20px";
+        student_div.appendChild(perform_div);   //添加学生成绩
+
+        //刷新页面
+        var refresh = function () {
+            let requests = new XMLHttpRequest();
+            requests.open("GET","http://127.0.0.1:5000/list",true);
+            requests.send(); //发送请求
+
+            //封装生成名单的方法
+            function f(x,y){
+                let elementdiv = document.createElement("div");
+                elementdiv.style.backgroundColor = 'pink';
+                elementdiv.className = "student_div";
+                elementdiv.style.cursor = "pointer"; //设置为小手
+                elementdiv.style.width = "59px";
+                mouse(elementdiv,"mouseover");
+                mouse(elementdiv,"mouseout");
+
+                let elementP1 = document.createElement("p");
+                elementP1.style.paddingLeft = "10px";
+                elementP1.innerText = x;
+                elementP1.className = "student_p1";
+
+                elementdiv.appendChild(elementP1);
+                let elementP2 = document.createElement("p");
+                elementP2.style.marginLeft = "10px";
+                elementP2.innerText = y +'分';
+                elementP2.className = "student_p2";
+
+                elementdiv.style.display = "inline-block";
+                mouse(elementdiv,"mouseclick");
+                elementdiv.appendChild(elementP2);
+                perform_div.appendChild(elementdiv);
+            }
+
+            var mouse = function (x,y) {
+                if (y === 'mouseover') {
+                    x.onmouseover = function () {
+                        x.style.backgroundColor = "orange";
+                    }
+                } else if (y === 'mouseout') {
+                    x.onmouseout = function () {
+                        if (x.className === "student_div"){
+                            x.style.backgroundColor = "pink";
+                        }
+                    }
+                } else {
+                    x.onclick = function () {
+                        let inputDiv = document.getElementsByClassName("input_div");
+                        let pEle = x.getElementsByTagName("p");
+                        if (x.className === 'student_div_click'){
+                            x.className = "student_div";
+                            x.style.backgroundColor = "pink";
+                            let spanEle = inputDiv[0].getElementsByTagName("span");
+                            for (let val=0;val < spanEle.length;val++){
+                                if (spanEle[val].innerText === pEle[0].innerText){
+                                    inputDiv[0].removeChild(spanEle[val]);  //循环找到删除对象并删除
+                                }
+                            }
+                        } else {
+                            x.className = "student_div_click";
+                            x.style.backgroundColor = 'orange';
+                            let spanText = document.createElement("span");
+                            spanText.style.display = "inline-block";
+                            spanText.innerText = pEle[0].innerText;
+                            spanText.style.border = "solid 1px #F0F0F0";
+                            spanText.style.color = "#808080";
+                            spanText.style.backgroundColor = "#F8F8F8";
+                            spanText.style.borderRadius = '5px';
+                            spanText.style.margin = "5px 0px 5px 5px";
+                            spanText.style.padding = "3px 7px 4px 7px";
+                            inputDiv[0].appendChild(spanText);
+                        }
+                    };
+                }
+            };
+
+            //发送成功以后调用的方法
+            requests.onreadystatechange = function(){
+                if(requests.readyState === 4) {
+                    let res = JSON.parse(requests.responseText);
+                    student_fen = res["data"];
+                    for (let val = 0; val < student_fen.length; val++) {
+                        let val_split = student_fen[val].split(",");
+                        if (perform_div.children.length !== student_fen.length){
+                            //实现赋值 赋予事件
+                            f(val_split[0], val_split[1]);
+                        } else {
+                            let performDiv = perform_div.getElementsByTagName("div");
+                            //获取对应序号的div 修改第二个p标签里面的成绩
+                            let pEle = performDiv[val].getElementsByTagName("p");
+                            pEle[0].innerText = val_split[0];
+                            pEle[1].innerText = val_split[1] + "分";
+                        }
+
+                    }
+                    console.log(perform_div.children.length)
+                }
+            };
+        };
+
+        //进入请求页面
+        refresh();
+        var grade = function (name) {
+            let requests = new XMLHttpRequest();
+            requests.open("POST",'http://127.0.0.1:5000/grade',true);
+            //application/x-www-form-urlencoded
+
+            requests.setRequestHeader("Content-type","application/json");
+            requests.send(JSON.stringify({"name":name}));
+            requests.onreadystatechange = function () {
+                if (requests.readyState === 4){
+                    refresh();
+                    //输入名称框div清空
+                    let inputDiv = student_div.getElementsByClassName("input_div")[0];
+                    inputDiv.innerHTML = "";
+                    //名称框内容初始化
+                    let performDiv = perform_div.getElementsByTagName("div");
+                    for (let val=0;val < performDiv.length;val++){
+                        let studentDiv = performDiv[val];
+                        if (studentDiv.className === "student_div_click"){
+                            //验证被点击的数据变回初始样式
+                            studentDiv.className = "student_div";
+                            studentDiv.style.backgroundColor = "pink";
+                        }
+                    }
+                }
+            }
+        };
+
+        //定义加分减分按钮
+        for (let val=0;val<input_button.length;val++){
+            let button = input_button[val];
+            if (button.value === "加分" || button.value === "减分"){
+                button.onclick = function () {
+                    button.style.border = '2px blue';
+                    button.style.color = 'blue';
+                    let getPrame = [];  //提交参数的定义
+                    let spanEle = input_div.getElementsByTagName("span");
+                    let input_value = document.getElementsByClassName("input_parget")[0].value;  //获取输入框里面填的分
+                    for (let x=0;x<spanEle.length;x++){
+                        let name = spanEle[x].innerText;
+                        if (button.value === "加分"){
+                            getPrame.push(name + "+" + input_value);
+                        } else {
+                            getPrame.push(name + "-" + input_value);
+                        }
+                    }
+                    grade(getPrame);
+                };
+            }
+        }
+
+
+    </script>
+</body>
+</html>

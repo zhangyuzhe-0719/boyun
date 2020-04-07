@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script>
+        //onload代表加载完毕页面后执行的操作
+        //前面加on
+        // click
+        //
+        // dblclick：双击鼠标
+        //
+        // mouseup：释放鼠标按钮
+        //
+        // mousedown：按下了鼠标任意键
+        //
+        // mouseenter：鼠标移入监听对象，在监听对象内的子元素间移动不会触发，即不冒泡
+        //
+        // mouseleave：与mouseenter对应
+        //
+        // mouseover：鼠标移入监听对象，包括从父元素移入到子元素，从子元素移入到子元素，都会触发，即会冒泡
+        //
+        // mouseout：与mouseover相对应
+        //
+        // mousemove：鼠标在元素内部移动时反复触发
+        //重新导航到新的页面
+        // location.href = 'https://www.baidu.com';
+        //刷新页面
+        // location.reload();
+        document.getElementById('').onclick = function(event) {
+            // this         代表指向等于那个对象 和self差不多
+            event.clientX;
+        };
+
+        onload = function () {
+            alert('页面已加载完毕');
+        };
+        //onbeforeunload 页面卸载后执行的操作
+        onbeforeunload = function () {
+            alert('页面已经卸载');
+        };
+    </script>
+</body>
+</html>

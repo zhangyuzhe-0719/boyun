@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0676ce45-3f11-44e8-a1fe-ea7e50fa9439" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="boyun" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTTP Request" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1W0Os2t9EbjmlRIO5MJCV8guxow" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\boyun\djx" />
+      <recent name="D:\boyun\djx\timplates" />
+      <recent name="D:\boyun\flask学习笔记\js_data" />
+      <recent name="D:\boyun\devopsPort" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.elementDispose">
+    <configuration name="study.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/boyun/djx/study.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="cs (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="boyun" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/cs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="boyun" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\boyun\djx\cs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="elementDispose" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+      <module name="boyun" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devopsUI/UIselenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devopsUI/UIselenium/elementDispose.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="form_user (1)" type="PythonConfigurationType" factoryName="Python" singleton="true" nameIsGenerated="true">
+      <module name="boyun" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/form_user.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="boyun" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devopsPort/Run" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devopsPort/Run/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.study.html" />
+      <item itemvalue="Python.elementDispose" />
+      <item itemvalue="Python.form_user (1)" />
+      <item itemvalue="Python.cs (2)" />
+      <item itemvalue="Python.cs" />
+      <item itemvalue="Python.cs (1)" />
+      <item itemvalue="Python.run" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="JavaScript Debug.study.html" />
+        <item itemvalue="Python.cs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0676ce45-3f11-44e8-a1fe-ea7e50fa9439" name="Default Changelist" comment="" />
+      <created>1578283249038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578283249038</updated>
+      <workItem from="1578283275169" duration="56705000" />
+      <workItem from="1578618947707" duration="135707000" />
+      <workItem from="1579751184652" duration="5324000" />
+      <workItem from="1581910679416" duration="37857000" />
+      <workItem from="1582079665409" duration="25681000" />
+      <workItem from="1582167957302" duration="177402000" />
+      <workItem from="1583379357838" duration="120291000" />
+      <workItem from="1583995935529" duration="22608000" />
+      <workItem from="1584068716413" duration="130000" />
+      <workItem from="1584068874300" duration="69161000" />
+      <workItem from="1584717798238" duration="26895000" />
+      <workItem from="1585127700547" duration="11080000" />
+      <workItem from="1585444935509" duration="95363000" />
+      <workItem from="1585997858824" duration="2557000" />
+      <workItem from="1586000703362" duration="1187000" />
+      <workItem from="1586053815299" duration="15240000" />
+      <workItem from="1586085306643" duration="2771000" />
+      <workItem from="1586224215286" duration="782000" />
+      <workItem from="1586225043065" duration="4776000" />
+      <workItem from="1586232126285" duration="757000" />
+      <workItem from="1586233876178" duration="278000" />
+      <workItem from="1586234155564" duration="3160000" />
+      <workItem from="1586241311480" duration="6102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586239318079">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1586239318079" />
+    <state x="597" y="286" key="#com.intellij.ws.actions.HttpClientConvertFromCurlDialog" timestamp="1583113984495">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="597" y="286" key="#com.intellij.ws.actions.HttpClientConvertFromCurlDialog/0.0.1600.860@0.0.1600.860" timestamp="1583113984495" />
+    <state x="555" y="131" key="#xdebugger.evaluate" timestamp="1584324793654">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="555" y="131" key="#xdebugger.evaluate/0.0.1600.860@0.0.1600.860" timestamp="1584324793654" />
+    <state width="635" height="466" key="DebuggerActiveHint" timestamp="1583479995454">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="635" height="466" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1583479995454" />
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1583134625834">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1583134625834" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1586234152456">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1586234152456" />
+    <state width="1556" height="268" key="GridCell.Tab.0.bottom" timestamp="1586239862325">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="268" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586239862325" />
+    <state width="1556" height="268" key="GridCell.Tab.0.center" timestamp="1586239862325">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="268" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586239862325" />
+    <state width="1556" height="268" key="GridCell.Tab.0.left" timestamp="1586239862325">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="268" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586239862325" />
+    <state width="1556" height="268" key="GridCell.Tab.0.right" timestamp="1586239862325">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="268" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586239862325" />
+    <state width="1556" height="268" key="GridCell.Tab.1.bottom" timestamp="1586239862203">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="268" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586239862203" />
+    <state width="1556" height="268" key="GridCell.Tab.1.center" timestamp="1586239862203">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="268" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1586239862203" />
+    <state width="1556" height="268" key="GridCell.Tab.1.left" timestamp="1586239862203">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="268" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1586239862203" />
+    <state width="1556" height="268" key="GridCell.Tab.1.right" timestamp="1586239862203">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="268" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1586239862203" />
+    <state width="1556" height="244" key="GridCell.Tab.2.bottom" timestamp="1585917848666">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="244" key="GridCell.Tab.2.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585917848666" />
+    <state width="1556" height="244" key="GridCell.Tab.2.center" timestamp="1585917848666">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="244" key="GridCell.Tab.2.center/0.0.1600.860@0.0.1600.860" timestamp="1585917848666" />
+    <state width="1556" height="244" key="GridCell.Tab.2.left" timestamp="1585917848666">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="244" key="GridCell.Tab.2.left/0.0.1600.860@0.0.1600.860" timestamp="1585917848666" />
+    <state width="1556" height="244" key="GridCell.Tab.2.right" timestamp="1585917848666">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="244" key="GridCell.Tab.2.right/0.0.1600.860@0.0.1600.860" timestamp="1585917848666" />
+    <state x="301" y="61" key="SettingsEditor" timestamp="1586240728623">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1586240728623" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1579396756509">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1579396756509" />
+    <state width="808" height="438" key="XDebugger.FullValuePopup" timestamp="1584323977664">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="808" height="438" key="XDebugger.FullValuePopup/0.0.1600.860@0.0.1600.860" timestamp="1584323977664" />
+    <state x="485" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1586241382462">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="485" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1586241382462" />
+    <state x="222" y="37" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586239112582">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="222" y="37" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.860@0.0.1600.860" timestamp="1586239112582" />
+    <state x="407" y="0" width="786" height="860" key="find.popup" timestamp="1579422654229">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="407" y="0" width="786" height="860" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1579422654229" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1586242398287">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1586242398287" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="s" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/boyun$form_user.coverage" NAME="form_user Coverage Results" MODIFIED="1585539091834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/boyun$devopsRequests.coverage" NAME="devopsRequests Coverage Results" MODIFIED="1584086571269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devopsPort/requestsSend" />
+    <SUITE FILE_PATH="coverage/boyun$elementDispose.coverage" NAME="elementDispose Coverage Results" MODIFIED="1586239876973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devopsUI/UIselenium" />
+    <SUITE FILE_PATH="coverage/boyun$cs__1_.coverage" NAME="cs (1) Coverage Results" MODIFIED="1585736663381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/boyun$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1583913962991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devopsPort" />
+    <SUITE FILE_PATH="coverage/boyun$caogao.coverage" NAME="caogao Coverage Results" MODIFIED="1584012280372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/boyun$cs2.coverage" NAME="cs2 Coverage Results" MODIFIED="1585562065268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/boyun$run.coverage" NAME="run Coverage Results" MODIFIED="1585917848620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devopsPort/Run" />
+    <SUITE FILE_PATH="coverage/boyun$webSocket.coverage" NAME="webSocket Coverage Results" MODIFIED="1583808381353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/boyun$caogao__1_.coverage" NAME="caogao (1) Coverage Results" MODIFIED="1584063532719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops" />
+    <SUITE FILE_PATH="coverage/boyun$devopsServer.coverage" NAME="devopsServer Coverage Results" MODIFIED="1584069116519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops" />
+    <SUITE FILE_PATH="coverage/boyun$logger.coverage" NAME="logger Coverage Results" MODIFIED="1583725453165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devopsPort/devopsLog" />
+    <SUITE FILE_PATH="coverage/boyun$building.coverage" NAME="building Coverage Results" MODIFIED="1578992837971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devopsPort/fileBuilding" />
+    <SUITE FILE_PATH="coverage/boyun$logInformation.coverage" NAME="logInformation Coverage Results" MODIFIED="1584068611736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops" />
+    <SUITE FILE_PATH="coverage/boyun$cs3.coverage" NAME="cs3 Coverage Results" MODIFIED="1585563296344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/boyun$devopsPipline.coverage" NAME="devopsPipline Coverage Results" MODIFIED="1584068728463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops" />
+    <SUITE FILE_PATH="coverage/boyun$form_user__1_.coverage" NAME="form_user (1) Coverage Results" MODIFIED="1585995486115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/boyun$userCreat.coverage" NAME="userCreat Coverage Results" MODIFIED="1583918310180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lostUser" />
+    <SUITE FILE_PATH="coverage/boyun$product.coverage" NAME="product Coverage Results" MODIFIED="1584068430702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops" />
+    <SUITE FILE_PATH="coverage/boyun$cs.coverage" NAME="cs Coverage Results" MODIFIED="1585883729970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/boyun$cs__2_.coverage" NAME="cs (2) Coverage Results" MODIFIED="1586238699425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/djx" />
+    <SUITE FILE_PATH="coverage/boyun$flask.coverage" NAME="flask笔记 Coverage Results" MODIFIED="1579683919837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask学习笔记" />
+    <SUITE FILE_PATH="coverage/boyun$warahouse.coverage" NAME="warahouse Coverage Results" MODIFIED="1584068637480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops" />
+    <SUITE FILE_PATH="coverage/boyun$excelDispose.coverage" NAME="excelDispose Coverage Results" MODIFIED="1583826458104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devopsPort/caseExcel" />
+  </component>
+</project>

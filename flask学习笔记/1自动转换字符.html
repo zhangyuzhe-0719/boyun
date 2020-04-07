@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>'北原卡盟工作室'</title>
+
+</head>
+<body>
+    <h1 class>好好学习天天向上</h1>
+    <input type="button" name="name" value="点击" id="input_button">
+<!--    <script type="application/javascript" src="js%20学习.js"></script>-->
+    <script>
+
+        setInterval(function () {
+            //setInterval(函数,毫秒) 代表隔多少毫秒执行一次上面的方法,循环一直执行
+            //s = setTimeout  和上面有所不同的是只执行一次
+            //clearTimeout(s) 传入上面的参数 暂停即可
+            var val = document.getElementById("input_button");
+            val.onclick = function () {
+                alert('点击成功')
+            };
+            //取h1标签下的文本内容下面的text文本 innerText获取文本或者 textContent
+            var h1Elment = document.getElementsByTagName("h1");
+            var titleText = h1Elment[0].textContent;
+            //取第一字符
+            var firstChart = titleText.charAt(0);
+            //截取出除第一个以外的字符串
+            var others = titleText.substring(1);
+            //getElementsByTagName获取出来对应的标签,返回一个数组
+            document.getElementsByTagName('h1')[0].textContent = others + firstChart
+
+        },1000)
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <input type="text" name="name1" value="" class="inp">
+    <input type="button" name="name" value="剪切" id="copy">
+    <input type="button" name="name" value="粘贴" id="paste">
+    <input type="text" name="name2" value="" class="inp">
+    <script>
+        var input = document.getElementsByClassName("inp");
+        document.getElementById("copy").onclick = function () {
+            var textInput = input[0].textContent;
+            clipboardData.setData("text",textInput)
+        }
+    </script>
+</body>
+</html>

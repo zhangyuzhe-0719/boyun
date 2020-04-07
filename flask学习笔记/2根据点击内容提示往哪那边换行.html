@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>好好学习天天向上</h1>
+    <input type="button" name="name" id="btn1" value="lefft">
+    <input type="button" name="name1" id="btn2" value="right">
+    <script>
+        var buttonJug = 'right';
+        var inputLst = document.getElementById('btn1');
+        var inputLst2 = document.getElementById('btn2');
+        var h1element = document.getElementsByTagName("h1");
+
+        var jugFunc = function () {
+            var textH1 = h1element[0].textContent;
+            if (buttonJug === 'right') {
+                document.getElementsByTagName("h1")[0].textContent = textH1.substring(1) + textH1.charAt(0);
+            } else {
+                document.getElementsByTagName("h1")[0].textContent = textH1.charAt(textH1.length-1) + textH1.substring(0,textH1.length-1);
+            }
+        };
+        inputLst.onclick = function () {
+            buttonJug = 'left';
+            jugFunc()
+        };
+        inputLst2.onclick = function () {
+            buttonJug = 'right';
+            jugFunc()
+        };
+
+    </script>
+</body>
+</html>
